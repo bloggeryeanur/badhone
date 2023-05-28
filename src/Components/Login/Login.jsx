@@ -4,24 +4,30 @@ import Form from "react-bootstrap/Form";
 import { Link } from "react-router-dom";
 import LoginCompo from "./LoginCompo";
 
+
 const Login = (props) => {
+
+
+
   return (
     <div>
       <Form className="w-50 mx-auto mt-5">
         <h2 className="text-center">Login</h2>
 
         <LoginCompo
-          name="Email"
+          title="Email"
           des="Please Inter Valid Email address"
           place="Enter your mail address"
-          type="mail"
+          type="email"
+          name='email'
         />
 
         <LoginCompo
-          name="Password"
+          title="Password"
           des=""
           place="Enter Your Current Password"
-          type="mail"
+          type="password"
+          name='password'
         />
 
         <p>

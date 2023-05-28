@@ -1,0 +1,72 @@
+[
+    {
+      "id": "64733561581bfc6d7db41cb9",
+      "balance": "$2,494.22",
+      "age": 20,
+      "name": "Sampson Graham",
+      "gender": "male",
+      "company": "TALAE",
+      "email": "sampsongraham@talae.com",
+      "phone": "+1 (943) 407-3942"
+    },
+    {
+      "id": "64733561c304bdae9b3b6d78",
+      "balance": "$1,056.93",
+      "age": 33,
+      "name": "Mack Jefferson",
+      "gender": "male",
+      "company": "DANJA",
+      "email": "mackjefferson@danja.com",
+      "phone": "+1 (980) 416-3697"
+    },
+    {
+      "id": "64733561947c1eb1fb755a1e",
+      "balance": "$1,154.72",
+      "age": 36,
+      "name": "Duffy Velez",
+      "gender": "male",
+      "company": "DIGIQUE",
+      "email": "duffyvelez@digique.com",
+      "phone": "+1 (957) 580-3463"
+    },
+    {
+      "id": "6473356143feed113a6e8b12",
+      "balance": "$3,583.92",
+      "age": 40,
+      "name": "Lambert Mcmillan",
+      "gender": "male",
+      "company": "CEDWARD",
+      "email": "lambertmcmillan@cedward.com",
+      "phone": "+1 (914) 472-2123"
+    },
+    {
+      "id": "6473356128eacd9e97286f50",
+      "balance": "$3,904.88",
+      "age": 38,
+      "name": "Aida Montgomery",
+      "gender": "female",
+      "company": "DATACATOR",
+      "email": "aidamontgomery@datacator.com",
+      "phone": "+1 (904) 509-2371"
+    },
+    {
+      "id": "64733561c46952fbfffdfebb",
+      "balance": "$3,628.45",
+      "age": 20,
+      "name": "Barnes Dotson",
+      "gender": "male",
+      "company": "ANOCHA",
+      "email": "barnesdotson@anocha.com",
+      "phone": "+1 (982) 523-2278"
+    },
+    {
+      "id": "64733561d2018620d44ccc8b",
+      "balance": "$1,590.59",
+      "age": 35,
+      "name": "Florence Short",
+      "gender": "female",
+      "company": "KRAG",
+      "email": "florenceshort@krag.com",
+      "phone": "+1 (856) 404-2668"
+    }
+  ]
