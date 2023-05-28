@@ -20,7 +20,7 @@ const Contact = () => {
             phone= '01841 - 86 54 28'
             img={badhone}
             />
-          </Col>
+          </Col> 
 
          
           <Col>
