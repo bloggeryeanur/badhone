@@ -1,17 +1,35 @@
-import React from "react";
+import React, { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import { Link } from "react-router-dom";
 import LoginCompo from "./LoginCompo";
+import {getAuth} from 'firebase/auth';
+import app from '../Firebase/Firebase';
 
+
+const auth = getAuth(app)
 
 const Login = (props) => {
+  const [user, setUser] = useState(false)
+
+  const loginBtn = (event)=>{
+    event.preventDefault();
+    const info = event.target;
+
+    const email = info.email.value;
+    const password = info.password.value;
+
+    
+    
+
+  }
+
 
 
 
   return (
     <div>
-      <Form className="w-50 mx-auto mt-5">
+      <Form onSubmit={loginBtn} className="w-50 mx-auto mt-5">
         <h2 className="text-center">Login</h2>
 
         <LoginCompo
